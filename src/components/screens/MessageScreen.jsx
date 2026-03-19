@@ -3,9 +3,9 @@ import { motion, AnimatePresence } from "framer-motion"
 import { Heart, MoveRight } from "lucide-react"
 
 const message = `
-I just wanted to tell you something... you really are special in a way that’s hard to explain.  
+I just wanted to tell you something... you are a very good friend to me, you really are special in a way that’s hard to explain.  
 There’s a softness in the way you talk, a sweetness in the way you smile, and something genuine about you that just feels good to be around.  
-You don’t try to be anything extra, you’re just you, and that’s what makes you so lovely.
+You don’t try to be anything extra, you’re just you,you always help me and understand me,you are very nice.and that’s what makes you so lovely.
 `
 
 export default function MessageScreen({ onNext }) {
